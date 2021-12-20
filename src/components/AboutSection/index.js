@@ -1,7 +1,6 @@
 import React from "react";
 import "./About.css";
 import Me from "../../Images/man.png";
-import resume from "../../Images/gopinath-mern-resume.pdf";
 import { InfoContainer } from "./AboutElements";
 function About() {
   return (
@@ -27,13 +26,13 @@ function About() {
             </p>
 
             <a
-              className="btn btn-sm btn-success mt-3"
+              className="btn btn-sm btn-primary mt-3"
               rel="noreferrer"
-              href={resume}
+              href= "https://drive.google.com/file/d/19mbRwH9pMhzXaoGNNN0qAGxgTXcHeStR/view"
               target="_blank"
               download
             >
-              Download <i className="fad fa-download"></i>
+              Resume <i className="fad fa-link"></i>
             </a>
           </div>
         </div>

@@ -46,7 +46,7 @@ export const Image = styled.img`
   width: 50px;
   border-radius: 50%;
   object-fit: cover;
-  box-shadow: rgba(59, 190, 60, 0.8) 0px 0px 0px 3px;
+  box-shadow: #1db9c3 0px 0px 0px 3px;
 `;
 export const MobileIcon = styled.div`
   display: none;
@@ -86,10 +86,10 @@ export const NavLinks = styled(LinkS)`
   cursor: pointer;
 
   &.active {
-    color: #01bf71;
-    border-bottom: 3px solid #01bf71;
+    color: #1db9c3;
+    border-bottom: 3px solid #1db9c3;
   }
   &.hover {
-    color: #01bf71;
+    color: #1db9c3;
   }
 `;

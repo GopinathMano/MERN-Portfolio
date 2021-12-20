@@ -12,7 +12,7 @@ function Skills() {
             <p>React</p>
             <ProgressBar
               completed={75}
-              bgColor="#01bf71"
+              bgColor="#1DB9C3"
               height="15px"
               isLabelVisible={true}
               baseBgColor="#ffffff"
@@ -23,7 +23,7 @@ function Skills() {
             <p>Node</p>
             <ProgressBar
               completed={75}
-              bgColor="#01bf71"
+              bgColor="#1DB9C3"
               height="15px"
               isLabelVisible={true}
               baseBgColor="#ffffff"
@@ -34,7 +34,7 @@ function Skills() {
             <p>Express</p>
             <ProgressBar
               completed={75}
-              bgColor="#01bf71"
+              bgColor="#1DB9C3"
               height="15px"
               isLabelVisible={true}
               baseBgColor="#ffffff"
@@ -46,7 +46,7 @@ function Skills() {
             <p>JavaScript</p>
             <ProgressBar
               completed={85}
-              bgColor="#01bf71"
+              bgColor="#1DB9C3"
               height="15px"
               isLabelVisible={true}
               baseBgColor="#ffffff"
@@ -57,7 +57,7 @@ function Skills() {
             <p>Git</p>
             <ProgressBar
               completed={75}
-              bgColor="#01bf71"
+              bgColor="#1DB9C3"
               height="15px"
               isLabelVisible={true}
               baseBgColor="#ffffff"
@@ -70,7 +70,7 @@ function Skills() {
             <p>MongoDB</p>
             <ProgressBar
               completed={85}
-              bgColor="#01bf71"
+              bgColor="#1DB9C3"
               height="15px"
               isLabelVisible={true}
               baseBgColor="#ffffff"
@@ -81,7 +81,7 @@ function Skills() {
             <p>MySql</p>
             <ProgressBar
               completed={85}
-              bgColor="#01bf71"
+              bgColor="#1DB9C3"
               height="15px"
               isLabelVisible={true}
               baseBgColor="#ffffff"
@@ -93,7 +93,7 @@ function Skills() {
             <p>HTML</p>
             <ProgressBar
               completed={85}
-              bgColor="#01bf71"
+              bgColor="#1DB9C3"
               height="15px"
               isLabelVisible={true}
               baseBgColor="#ffffff"
@@ -104,7 +104,7 @@ function Skills() {
             <p>CSS</p>
             <ProgressBar
               completed={85}
-              bgColor="#01bf71"
+              bgColor="#1DB9C3"
               height="15px"
               isLabelVisible={true}
               baseBgColor="#ffffff"

@@ -32,7 +32,7 @@ function Portfolio() {
                 <i className="fab fa-node node"></i> &nbsp;
                 <SiIcons.SiMongodb className="mongodb" /> &nbsp;
                 <p className="codeLinks text-center pt-3">
-                  <a
+                  {/* <a
                     className="bth btn-sm btn-success ml-3"
                     target="_blank"
                     rel="noreferrer"
@@ -47,14 +47,14 @@ function Portfolio() {
                     href="https://github.com/GopinathMano/React-Shopy-backend"
                   >
                     Backend <i className="fab fa-github"></i>
-                  </a>
+                  </a> */}
                   <a
                     className="bth btn-sm btn-success ml-3"
                     target="_blank"
                     rel="noreferrer"
                     href="https://lucid-carson-b3fd8a.netlify.app"
                   >
-                    Website <i className="fad fa-link"></i>
+                    Live-Website <i className="fad fa-link"></i>
                   </a>
                 </p>
               </div>
@@ -79,7 +79,7 @@ function Portfolio() {
                 <i className="fab fa-node node"></i> &nbsp;
                 <SiIcons.SiMongodb className="mongodb" /> &nbsp;
                 <p className="codeLinks text-center pt-3">
-                  <a
+                  {/* <a
                     className="bth btn-sm btn-success ml-3"
                     target="_blank"
                     rel="noreferrer"
@@ -94,14 +94,14 @@ function Portfolio() {
                     href="https://github.com/GopinathMano/mern-BlogApp-Backend"
                   >
                     Backend <i className="fab fa-github"></i>
-                  </a>
+                  </a> */}
                   <a
                     className="bth btn-sm btn-success ml-3"
                     target="_blank"
                     rel="noreferrer"
                     href="https://epic-bassi-425708.netlify.app/"
                   >
-                    Website <i className="fad fa-link"></i>
+                  Live-Website <i className="fad fa-link"></i>
                   </a>
                 </p>
               </div>
@@ -130,7 +130,7 @@ function Portfolio() {
                 <i className="fab fa-node node"></i> &nbsp;
                 <SiIcons.SiMongodb className="mongodb" /> &nbsp;
                 <p className="codeLinks text-center pt-3">
-                  <a
+                  {/* <a
                     className="bth btn-sm btn-success ml-3"
                     target="_blank"
                     rel="noreferrer"
@@ -145,14 +145,14 @@ function Portfolio() {
                     href="https://github.com/GopinathMano/React-MyRecipeApp-Backend"
                   >
                     Backend <i className="fab fa-github"></i>
-                  </a>
+                  </a> */}
                   <a
                     className="bth btn-sm btn-success ml-3"
                     target="_blank"
                     rel="noreferrer"
                     href="https://myrecipes02.netlify.app/"
                   >
-                    Website <i className="fad fa-link"></i>
+                    Live-Website <i className="fad fa-link"></i>
                   </a>
                 </p>
               </div>
